@@ -97,18 +97,15 @@ h2, p, h3 {
     justify-content: center;
     background-color: #fff;
     height: 200px;
+    width: 100%;
+    background-color: #acff00;
 }
 
 .banner img {
     width: auto;
-    margin-right: 20px;
+    height: auto;
+    background-color: #acff00;
     border-radius: 15px;
-}
-
-.banner h3 {
-    font-size: 20px;
-    font-style: italic;
-    color: #555;
 }
 
 .nivel3 {
